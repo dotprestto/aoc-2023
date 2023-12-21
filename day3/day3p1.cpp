@@ -13,6 +13,9 @@ typedef struct {
   bool valid;
   Position pos;
 } Number;
+// I'm a beginner in C++, so I don't know how to do this better
+// check https://github.com/NuMakesGames/advent-of-code-2023 for a better
+// solution
 
 // directions to verify
 #define NUM_DIRS 8
